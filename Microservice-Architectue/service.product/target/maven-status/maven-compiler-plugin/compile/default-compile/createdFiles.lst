@@ -1,0 +1,3 @@
+org\tempo\service\product\models\Product.class
+org\tempo\service\product\controllers\TempoProductMainController.class
+org\tempo\service\product\ProductServiceApplication.class

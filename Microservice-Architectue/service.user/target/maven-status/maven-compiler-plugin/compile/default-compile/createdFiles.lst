@@ -1,0 +1,3 @@
+org\tempo\service\user\UserServiceApplication.class
+org\tempo\service\user\controllers\TempoUserMainController.class
+org\tempo\service\user\models\User.class

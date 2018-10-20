@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.viren.boot.viren.netflix.zuul.proxyserver.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.008 s - in org.viren.boot.viren.netflix.zuul.proxyserver.ApplicationTests

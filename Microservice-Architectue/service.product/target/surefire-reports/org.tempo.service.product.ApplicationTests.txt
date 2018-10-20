@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.tempo.service.product.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.574 s - in org.tempo.service.product.ApplicationTests
