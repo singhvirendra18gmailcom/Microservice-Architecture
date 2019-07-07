@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.gauri.services.currencyconversionservice.CurrencyConversionServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.191 s - in org.gauri.services.currencyconversionservice.CurrencyConversionServiceApplicationTests
